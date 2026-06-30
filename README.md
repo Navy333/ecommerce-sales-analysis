@@ -1,7 +1,13 @@
 # Ecommerce Sales Analysis
 
 ## Project Overview
-This project analyzes ecommerce sales data using Python, SQL, and Power BI.
+This project performs end-to-end analysis of ecommerce sales data using Python, SQL, and Power BI.
+
+## Objectives
+- Clean raw ecommerce data
+- Perform exploratory data analysis
+- Extract business insights
+- Build interactive dashboard
 
 ## Tools Used
 - Python
@@ -11,8 +17,19 @@ This project analyzes ecommerce sales data using Python, SQL, and Power BI.
 - SQL
 - Power BI
 
-## Project Workflow
-1. Data Cleaning
-2. Exploratory Data Analysis (EDA)
-3. SQL Analysis
-4. Dashboard Creation
+## Workflow
+1. Data Cleaning  
+2. Exploratory Data Analysis  
+3. SQL Analysis  
+4. Dashboard Building  
+
+## Business Questions
+- Which country generates highest revenue?
+- Which products sell the most?
+- Who are top customers?
+- Which month has highest sales?
+
+## Project Structure
+```bash
+ecommerce-sales-analysis/
+```
